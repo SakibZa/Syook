@@ -1,0 +1,17 @@
+{
+  "name": "syook",
+  "version": "1.0.0",
+  "description": "\"syook Assessment \"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sakib Husain Zaidi",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "random-int": "^3.0.0",
+    "sha256": "^0.2.0",
+    "ws": "^8.13.0"
+  }
+}
