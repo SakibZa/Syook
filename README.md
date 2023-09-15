@@ -1,2 +1,1 @@
-# Syook
-Intoduction Pages 
+
